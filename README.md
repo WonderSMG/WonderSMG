@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=“https://github.com/WonderSMG/WonderSMG/blob/main/myImage.heic” width="150" height="150" style="border-radius: 50%;" alt="Samuel Adeola" />
+</p>
+
 <h1 align="center">Hi, I'm Wonder Ayedogbon 👋</h1>
 <p align="center">💻 Full-stack Developer | 🛠 Passionate about building user-friendly web experiences | 🌱 Lifelong Learner
 </p>
