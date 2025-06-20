@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=“myImage.jpeg” width="150" height="150" style="border-radius: 50%;" alt="Wonder Ayedogbon" />
+  <img src=“[myImage.jpeg](https://github.com/WonderSMG/WonderSMG/blob/main/myImage.jpeg)” width="150" height="150" style="border-radius: 50%;" alt="Wonder Ayedogbon" />
 </p>
 
 <h1 align="center">Hi, I'm Wonder Ayedogbon 👋</h1>
